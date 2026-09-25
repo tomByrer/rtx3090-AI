@@ -6,7 +6,7 @@ Link farm &amp; notes for using RTX3090 for AI
  * https://github.com/syv-ai/HyperQwen
  * https://github.com/JakeATX/llamAmpere
 
-### not updated frequently
+### (not updated frequently)
 
  * https://github.com/Don-Chad/ninfer-3090
  * https://github.com/Sandermage/sndr_core_engine
