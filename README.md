@@ -3,6 +3,7 @@ Link farm &amp; notes for using RTX3090 for AI
 
 ## code
 
+ * https://github.com/iamwavecut/ninfer-all: NInfer for the RTX3090+t: GGUF block formats, ternary Bonsai 2, device route profiles, MTP and DFlash2
  * https://github.com/syv-ai/HyperQwen
  * https://github.com/JakeATX/llamAmpere
 
