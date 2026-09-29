@@ -8,7 +8,7 @@ Link farm &amp; notes for using RTX3090 for AI
  * https://github.com/iamwavecut/ninfer-all: NInfer for the RTX3090+t: GGUF block formats, ternary Bonsai 2, device route profiles, MTP and DFlash2
  * https://github.com/syv-ai/HyperQwen
  * https://github.com/JakeATX/llamAmpere
- * https://github.com/signalnine/q27 3090+Apple
+ * https://github.com/signalnine/q27 3090+Apple, author works at NVIDIA, used by [potemkin](https://github.com/signalnine/potemkin)
  * https://github.com/r0b0tlab/qwen38-exl3-dflash2 DFlash2 for ExLlamaV3, 262k context
 
 #### (not updated frequently)
