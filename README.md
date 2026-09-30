@@ -13,6 +13,9 @@ Link farm &amp; notes for using RTX3090 for AI
  * https://github.com/signalnine/q27 3090+Apple, author works at NVIDIA, used by [potemkin](https://github.com/signalnine/potemkin)
  * https://github.com/r0b0tlab/qwen38-exl3-dflash2 DFlash2 for ExLlamaV3, 262k context
 
+##### (too immature)
+ * https://github.com/magnitudedev/magnitude
+
 ##### (not updated frequently)
 
  * https://github.com/Don-Chad/ninfer-3090
