@@ -32,6 +32,7 @@ Link farm &amp; notes for using RTX3090 for AI
 
  * https://huggingface.co/ukisai/Swift-Qwen3.8-27B-GGUF [Reddit](https://www.reddit.com/r/LocalLLaMA/comments/1wrv6bp/swift_15_qwen38_27b_a_musthave_for_low_thinking/)
  * https://huggingface.co/Wa1k3r/Qwen3.8-27b-CODER-4q_xs-24GB-262k-Optimalcardfit#how-lexipanel-made-it fitted by LexiPanel
+ * [Qwen3.8 27B GSQ-RCO IQ3_S for 16GB VRAM](https://www.reddit.com/r/LocalLLaMA/comments/1wzfv45/just_my_how_i_run_qwen38_27b_on_16gb_experience/) 
 
 ## tools
 
