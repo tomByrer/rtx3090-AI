@@ -15,6 +15,7 @@ Link farm &amp; notes for using RTX3090 for AI
 
 ##### (too immature)
  * https://github.com/magnitudedev/magnitude
+ * https://github.com/BlockWayz/agens-engine [heavily customized model](https://huggingface.co/Blockway/Agens-Volundr-32B-v1)
 
 ##### (not updated frequently)
 
