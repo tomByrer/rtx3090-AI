@@ -1,9 +1,7 @@
 # rtx3090-AI
 Link farm &amp; notes for using RTX3090 for AI
 
-## code
-
-### inference engines
+## inference engines
 
 ### Qwen3.8-27B+
 (Maybe other models, & sometimes they have their own quants/finetunes)
@@ -13,19 +11,23 @@ Link farm &amp; notes for using RTX3090 for AI
  * https://github.com/signalnine/q27 3090+Apple, author works at NVIDIA, used by [potemkin](https://github.com/signalnine/potemkin)
  * https://github.com/r0b0tlab/qwen38-exl3-dflash2 DFlash2 for ExLlamaV3, 262k context
 
-##### (too immature)
+#### (too immature)
  * https://github.com/magnitudedev/magnitude
  * https://github.com/BlockWayz/agens-engine [heavily customized model](https://huggingface.co/Blockway/Agens-Volundr-32B-v1)
 
-##### (not updated frequently)
+#### (not updated frequently)
 
  * https://github.com/Don-Chad/ninfer-3090
  * https://github.com/Sandermage/sndr_core_engine
  * https://github.com/noonghunna/club-3090/
 
+## MOE
+
+* https://github.com/VecSzn/PolyStrata/ for several MoE models
+
 ### Qwen3.8-Flash-Next
 
- * https://github.com/Niko1221/Strata 12-24GB VRAM,  + 64GB sRAM
+ * https://github.com/Niko1221/Strata 12-24GB VRAM,  + 64GB sRAM, [prep helper](https://www.reddit.com/r/LocalLLM/comments/1xdkrt4/a_small_helper_to_run_your_own_qwen38flashnext/)
 
 ### Models/finetunes/quants
 
