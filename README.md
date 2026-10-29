@@ -38,6 +38,11 @@ Link farm &amp; notes for using RTX3090 for AI
  * https://huggingface.co/Wa1k3r/Qwen3.8-27b-CODER-4q_xs-24GB-262k-Optimalcardfit#how-lexipanel-made-it fitted by LexiPanel
  * [Qwen3.8 27B GSQ-RCO IQ3_S for 16GB VRAM](https://www.reddit.com/r/LocalLLaMA/comments/1wzfv45/just_my_how_i_run_qwen38_27b_on_16gb_experience/) 
 
+ #### small
+
+  * https://huggingface.co/bartowski/MiMo-V2.6-Distill-Qwen-9B-GGUF
+ 
+
 ## tools
 
  * [LexiPanel](https://github.com/W61k3r/LexiPanel#lexipanel) captures local traffic to tune quants & engines
