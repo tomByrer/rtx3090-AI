@@ -24,6 +24,7 @@ Link farm &amp; notes for using RTX3090 for AI
 ## MOE
 
 * https://github.com/VecSzn/PolyStrata/ for several MoE models
+* OG: https://github.com/Niko1221/Strata
 
 ### Qwen3.8-Flash-Next
 
