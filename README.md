@@ -40,6 +40,7 @@ Link farm &amp; notes for using RTX3090 for AI
 ## tools
 
  * [LexiPanel](https://github.com/W61k3r/LexiPanel#lexipanel) captures local traffic to tune quants & engines
+ * ROCm Strata for EXL3 quant https://github.com/nasone32/Strata-EXL3-fork
 
 .
  
