@@ -50,5 +50,13 @@ Link farm &amp; notes for using RTX3090 for AI
  * [LexiPanel](https://github.com/W61k3r/LexiPanel#lexipanel) captures local traffic to tune quants & engines
  * ROCm Strata for EXL3 quant https://github.com/nasone32/Strata-EXL3-fork
 
+### drafters
+
+ * https://github.com/eagle-hq/EAGLE-4
+
+
+## AVI
+
+ComfyUI is the most supported & flexalbe runtime for AVI.  Use INT8_ConvRot quants if available, then plain INT8... 
 .
  
