@@ -5,7 +5,10 @@ Link farm &amp; notes for using RTX3090 for AI
 
 ## MOE
 
-* https://github.com/VecSzn/PolyStrata/ [Strata](https://github.com/Niko1221/Strata) fork for several MoE models
+### [Strata](https://github.com/Niko1221/Strata) forks
+
+* https://github.com/VecSzn/PolyStrata/ for several MoE models
+* https://github.com/eddoursul/Lamina
 
 ### Qwen3.8-Flash-Next
 
@@ -38,12 +41,17 @@ Link farm &amp; notes for using RTX3090 for AI
 
  * https://huggingface.co/ukisai/Swift-Qwen3.8-27B-GGUF [Reddit](https://www.reddit.com/r/LocalLLaMA/comments/1wrv6bp/swift_15_qwen38_27b_a_musthave_for_low_thinking/)
  * https://huggingface.co/Wa1k3r/Qwen3.8-27b-CODER-4q_xs-24GB-262k-Optimalcardfit#how-lexipanel-made-it fitted by LexiPanel
+ * https://huggingface.co/DavidAU/Qwen3.8-27B-Jumbo-Fusion-IQ-747-900-Turbo-Brilliance-50X-Reasoning-Instruct-NEO-MAX-MTP-GGUF
  * [Qwen3.8 27B GSQ-RCO IQ3_S for 16GB VRAM](https://www.reddit.com/r/LocalLLaMA/comments/1wzfv45/just_my_how_i_run_qwen38_27b_on_16gb_experience/) 
 
  #### small
 
   * https://huggingface.co/bartowski/MiMo-V2.6-Distill-Qwen-9B-GGUF
+  * https://github.com/RandoTeam/StrataRealLowVRAM
  
+# 8Gb VRAM
+
+* https://github.com/MistVVK/XeStrata Qwen3.8-Flash-Next
 
 ## tools
 
